@@ -1,7 +1,3 @@
----
-title: "CodeBook.md"
----
-
 Getting And Cleaning Data Codebook (Tidy Dataset 2)
 ===
   
